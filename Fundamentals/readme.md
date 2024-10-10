@@ -1,1 +1,2 @@
 - [Dart in 100 Seconds](https://youtu.be/NrO0CJCbYLA)
+- [Dart Programming Language - Explained in 6 Min (2024)](https://youtu.be/LAPWBRlufHg)
